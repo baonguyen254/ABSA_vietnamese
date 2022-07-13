@@ -6,7 +6,7 @@ thu được lợi nhuận tốt nhất.
 Đề tài này chúng tôi nghiên cứu bài toán phân tích cảm xúc dựa trên các khía cạnh trong
 các phản hồi/ý kiến của khách hàng trên tập dữ liệu thu thập từ các trang thương mại
 điện tử.
-Trong luận văn đề xuất một số phương pháp trích xuất các khía cạnh có trong bình luận
+Trong đề xuất một số phương pháp trích xuất các khía cạnh có trong bình luận
 của khách hàng. Bên cạnh đó, từ các khía cạnh đã trích xuất sẵn thực hiện bước phân
 loại cảm xúc trên các khía cạnh đó. Nói cách khác, thay vì tạo ra hai mô hình riêng biệt
-thực hiện 2 nhiệm vụ riêng biệt.
+thực hiện 2 nhiệm vụ riêng biệt, thì mục tiêu hướng đến một mô hình đa nhiệm vụ.
