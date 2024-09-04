@@ -16,6 +16,6 @@ This approach offers a more efficient and effective way to analyze customer feed
 
 
 ### link document
-[Thesis_NLP_ABSA]([https://pages.github.com/](https://github.com/baonguyen254/ABSA_vietnamese/blob/master/Thesis_NLP_ABSA.pdf)).
+[Thesis_NLP_ABSA.pdf](https://github.com/baonguyen254/ABSA_vietnamese/blob/master/Thesis_NLP_ABSA.pdf).
 
 
