@@ -1,12 +1,21 @@
 # Aspect-based sentiment analysis vietnamese
-Nhu cầu về mua sắm trực tuyến ngày càng gia tăng, dẫn đến nguồn dữ liệu phản hồi/ý
-kiến của khách hàng về các sản phẩm và dịch vụ ngày càng nhiều. Khai thác về dữ liệu
-này nhằm cải thiện chất lượng sản phẩm, dịch vụ và tăng uy tín cho nhà cung cấp hơn,
-thu được lợi nhuận tốt nhất.
-Đề tài này chúng tôi nghiên cứu bài toán phân tích cảm xúc dựa trên các khía cạnh trong
-các phản hồi/ý kiến của khách hàng trên tập dữ liệu thu thập từ các trang thương mại
-điện tử.
-Trong đề xuất một số phương pháp trích xuất các khía cạnh có trong bình luận
-của khách hàng. Bên cạnh đó, từ các khía cạnh đã trích xuất sẵn thực hiện bước phân
-loại cảm xúc trên các khía cạnh đó. Nói cách khác, thay vì tạo ra hai mô hình riêng biệt
-thực hiện 2 nhiệm vụ riêng biệt, thì mục tiêu hướng đến một mô hình đa nhiệm vụ.
+### Introduction
+The demand for online shopping is steadily increasing, leading to a growing pool of customer feedback and opinions on products and services.
+Exploiting this data aims to enhance product and service quality, boosting the supplier's reputation and ultimately achieving optimal profitability.
+This research delves into the problem of sentiment analysis based on aspects within customer feedback and opinions collected from e-commerce platforms.
+This research proposes several methods for extracting aspects present in customer reviews.
+Furthermore, based on the extracted aspects, the next step involves sentiment classification on these aspects.
+In other words, instead of creating two separate models for two distinct tasks, the goal is to develop a multi-task model.
+This approach aims to achieve a more comprehensive understanding of customer sentiment by considering both the overall sentiment and the sentiment towards specific aspects of the product or service.
+This research aims to develop a multi-task model that can simultaneously extract aspects and classify sentiment on those aspects, thereby providing a more comprehensive understanding of customer feedback.
+This approach offers a more efficient and effective way to analyze customer feedback, as it avoids the need to train separate models for each task.
+
+
+### Experimental Results
+![image](https://github.com/user-attachments/assets/fb773107-0db5-4348-88d5-c57e0eb74ed5)
+
+
+### link document
+[Thesis_NLP_ABSA]([https://pages.github.com/](https://github.com/baonguyen254/ABSA_vietnamese/blob/master/Thesis_NLP_ABSA.pdf)).
+
+
