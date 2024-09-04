@@ -10,6 +10,8 @@ This approach aims to achieve a more comprehensive understanding of customer sen
 This research aims to develop a multi-task model that can simultaneously extract aspects and classify sentiment on those aspects, thereby providing a more comprehensive understanding of customer feedback.
 This approach offers a more efficient and effective way to analyze customer feedback, as it avoids the need to train separate models for each task.
 
+![image](https://github.com/user-attachments/assets/43a7e36e-8613-4421-beb8-eb2b8d17746d)
+
 
 ### Experimental Results
 ![image](https://github.com/user-attachments/assets/fb773107-0db5-4348-88d5-c57e0eb74ed5)
